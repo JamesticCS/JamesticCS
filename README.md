@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Jesse and I am a Honours Math student at the University of Waterloo.
+
+I enjoy math, computers, anime, and my cats
+
+Most of my work is done in private repositories
 <!--
 **JamesticCS/JamesticCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
