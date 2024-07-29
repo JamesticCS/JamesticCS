@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Jesse and I am a Honours Math student at the University of Waterloo.
+My name is Jesse and I'm a student at the University of Waterloo.
 
 I enjoy math, computers, anime, and my cats
 
