@@ -5,6 +5,8 @@ My name is Jesse and I'm a student at the University of Waterloo.
 I enjoy math, computers, anime, and my cats
 
 Most of my work is done in private repositories
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesticCS&layout=compact)
 <!--
 **JamesticCS/JamesticCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
